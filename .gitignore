@@ -1,0 +1,4 @@
+*.mp4
+static/
+extracted_frames/
+*.hdf5
